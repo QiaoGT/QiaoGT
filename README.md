@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/Samsung-S20-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.samsung.com/us/app/mobile/galaxy-s20-5g/)
 [![](https://img.shields.io/badge/iPhone-13%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@qgt?name=qgt&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
 
 #### Languages & Frameworks
