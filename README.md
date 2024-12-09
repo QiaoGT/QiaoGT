@@ -76,8 +76,8 @@ XML        🕓 2m    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 极限竞速 地平线5                  🕘 3 hrs 34 mins
-🎮 永劫无间                          🕘 0 hrs 1 mins
+💻 极限竞速 地平线5                  🕘 33 hrs 34 mins
+🎮 永劫无间                          🕘 57 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
