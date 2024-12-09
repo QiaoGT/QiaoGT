@@ -1,11 +1,11 @@
-<h2><a href="https://github.com/journey-ad"><img src="https://raw.githubusercontent.com/journey-ad/journey-ad/master/sayhi.svg" align="left" /></a>🌱</h2>
+<h2><a href="https://github.com/journey-ad"><img src="https://raw.githubusercontent.com/journey-ad/journey-ad/master/sayhi2.svg" align="left" /></a>🌱</h2>
 
 <!--<p>
   <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
 </p>-->
 
 #### Platform & Tools
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@qgt?name=qgt&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
@@ -68,7 +68,6 @@ XML        🕓 2m    ░░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
-[powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
 
 </td>
 <td valign="top" width="50%">
@@ -76,13 +75,12 @@ XML        🕓 2m    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 3 hrs 34 mins
-🎮 VTOL VR                           🕘 0 hrs 1 mins
+💻 极限竞速 地平线5                  🕘 3 hrs 34 mins
+🎮 永劫无间                          🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
-[powered by steam-box](https://github.com/journey-ad/steam-box)
 
 </td>
 </tr>
