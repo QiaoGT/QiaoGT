@@ -1,4 +1,4 @@
-<h2><a href="https://github.com/QiaoGT/"><img src="https://github.com/QiaoGT/summary/blob/master/sayhi2.svg" align="left" />wob</a>🌱</h2>
+<h2><a href="https://github.com/QiaoGT/"><img src="https://github.com/QiaoGT/summary/blob/master/sayhi2.svg" align="left" /></a>🌱</h2>
 
 <!--<p>
   <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
